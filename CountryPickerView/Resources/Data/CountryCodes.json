@@ -370,6 +370,11 @@
 "code": "FR"
 },
 {
+"name": "French Antille",
+"dial_code": "+596",
+"code": "FA"
+},
+{
 "name": "French Guiana",
 "dial_code": "+594",
 "code": "GF"
